@@ -1,0 +1,9 @@
+{
+  "name": "KS App Store",
+  "short_name": "KS Store",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": []
+}
